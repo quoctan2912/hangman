@@ -1,2 +1,2 @@
 # hangman
-do the hangman
+game: guess the letter
